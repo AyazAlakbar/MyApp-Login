@@ -1,0 +1,70 @@
+
+
+.container{
+    width: 100%;
+    height: 720px;
+    
+    
+    
+    
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(227, 225, 225);
+}
+
+.container .myApp{
+    border-style:hidden;
+    justify-content: center;
+    display: flex;
+    
+    width: 100%;
+    height: 50px;
+}
+
+.container .img{
+    
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    border-style: hidden;
+    height: 200px;
+    
+
+    
+}
+
+.container .email{
+    border-style:hidden;
+    justify-content: center;
+    display: flex;
+    height: 40px;
+    
+
+}
+
+.container .password{
+    border-style:hidden;
+    justify-content: center;
+    display: flex;
+    height: 40px;
+}
+
+.container .login{
+   
+    border-style:hidden;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    
+    padding: 15px;
+    cursor: pointer;
+    align-items: center;
+
+}
+
+.container .page{
+    border-style:hidden;
+    justify-content: center;
+    display: flex;
+    width:  100%;
+}
